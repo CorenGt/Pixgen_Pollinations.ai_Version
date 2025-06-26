@@ -5,6 +5,7 @@
 Pixgen, basit metin açıklamalarından nefes kesen görseller oluşturmak için Pollinations.ai'ın güçlü Flux AI teknolojisini kullanan modern, web tabanlı bir AI görsel üreticidir. Flask ile geliştirilmiş, animasyonlu grid arka planlar ve muhteşem görsel efektler içeren şık ve modern bir arayüze sahiptir.
 
 ![Pixgen Demo](static/images/generated/generated_1750966801.png)
+![Pixgen Demo](static/images/generated/generated_1750964710.png)
 
 ## 🎯 Neden Pixgen?
 
